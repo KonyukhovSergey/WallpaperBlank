@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">LiveWallpaperBlank</string>
+    <string name="description">blank wallpaper</string>
+    <string name="service_label">blank wallpaper</string>
+
+</resources>
